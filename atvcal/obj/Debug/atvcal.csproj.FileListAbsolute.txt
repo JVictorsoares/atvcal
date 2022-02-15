@@ -1,0 +1,10 @@
+C:\Users\joaos\source\repos\atvcal\atvcal\obj\Debug\atvcal.csproj.AssemblyReference.cache
+C:\Users\joaos\source\repos\atvcal\atvcal\obj\Debug\atvcal.Form1.resources
+C:\Users\joaos\source\repos\atvcal\atvcal\obj\Debug\atvcal.Properties.Resources.resources
+C:\Users\joaos\source\repos\atvcal\atvcal\obj\Debug\atvcal.csproj.GenerateResource.cache
+C:\Users\joaos\source\repos\atvcal\atvcal\obj\Debug\atvcal.csproj.CoreCompileInputs.cache
+C:\Users\joaos\source\repos\atvcal\atvcal\bin\Debug\atvcal.exe.config
+C:\Users\joaos\source\repos\atvcal\atvcal\bin\Debug\atvcal.exe
+C:\Users\joaos\source\repos\atvcal\atvcal\bin\Debug\atvcal.pdb
+C:\Users\joaos\source\repos\atvcal\atvcal\obj\Debug\atvcal.exe
+C:\Users\joaos\source\repos\atvcal\atvcal\obj\Debug\atvcal.pdb
